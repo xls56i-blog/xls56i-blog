@@ -43,4 +43,6 @@
 &emsp; If you are interested, feel free to contact me. My email is 947252044@qq.com and WeChat Id is xls56i. 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xls56i&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Linsong-Xu&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Linsong-Xu&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Linsong-Xu&theme=vue&utcOffset=8)
